@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="main$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="C:\Users\Public\AndroidProjects\app\src\main\res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="main" generated-set="main$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="C:\Users\Public\AndroidProjects\app\src\main\res"><file name="arrow" path="C:\Users\Public\AndroidProjects\app\src\main\res\drawable\arrow.png" qualifiers="" type="drawable"/><file name="cicrcled_background" path="C:\Users\Public\AndroidProjects\app\src\main\res\drawable\cicrcled_background.xml" qualifiers="" type="drawable"/><file name="free_icon_plus_1828817" path="C:\Users\Public\AndroidProjects\app\src\main\res\drawable\free_icon_plus_1828817.png" qualifiers="" type="drawable"/><file name="ic_launcher_background" path="C:\Users\Public\AndroidProjects\app\src\main\res\drawable\ic_launcher_background.xml" qualifiers="" type="drawable"/><file name="ic_launcher_foreground" path="C:\Users\Public\AndroidProjects\app\src\main\res\drawable\ic_launcher_foreground.xml" qualifiers="" type="drawable"/><file name="resource_return" path="C:\Users\Public\AndroidProjects\app\src\main\res\drawable\resource_return.png" qualifiers="" type="drawable"/><file name="example_appwidget_preview" path="C:\Users\Public\AndroidProjects\app\src\main\res\drawable-nodpi\example_appwidget_preview.png" qualifiers="nodpi-v4" type="drawable"/><file name="app_widget_background" path="C:\Users\Public\AndroidProjects\app\src\main\res\drawable-v21\app_widget_background.xml" qualifiers="v21" type="drawable"/><file name="app_widget_inner_view_background" path="C:\Users\Public\AndroidProjects\app\src\main\res\drawable-v21\app_widget_inner_view_background.xml" qualifiers="v21" type="drawable"/><file name="activity_main" path="C:\Users\Public\AndroidProjects\app\src\main\res\layout\activity_main.xml" qualifiers="" type="layout"/><file name="activity_word_add" path="C:\Users\Public\AndroidProjects\app\src\main\res\layout\activity_word_add.xml" qualifiers="" type="layout"/><file name="activity_word_view" path="C:\Users\Public\AndroidProjects\app\src\main\res\layout\activity_word_view.xml" qualifiers="" type="layout"/><file name="view_item" path="C:\Users\Public\AndroidProjects\app\src\main\res\layout\view_item.xml" qualifiers="" type="layout"/><file name="ic_launcher" path="C:\Users\Public\AndroidProjects\app\src\main\res\mipmap-anydpi-v26\ic_launcher.xml" qualifiers="anydpi-v26" type="mipmap"/><file name="ic_launcher_round" path="C:\Users\Public\AndroidProjects\app\src\main\res\mipmap-anydpi-v26\ic_launcher_round.xml" qualifiers="anydpi-v26" type="mipmap"/><file name="ic_launcher" path="C:\Users\Public\AndroidProjects\app\src\main\res\mipmap-hdpi\ic_launcher.webp" qualifiers="hdpi-v4" type="mipmap"/><file name="ic_launcher_round" path="C:\Users\Public\AndroidProjects\app\src\main\res\mipmap-hdpi\ic_launcher_round.webp" qualifiers="hdpi-v4" type="mipmap"/><file name="ic_launcher" path="C:\Users\Public\AndroidProjects\app\src\main\res\mipmap-mdpi\ic_launcher.webp" qualifiers="mdpi-v4" type="mipmap"/><file name="ic_launcher_round" path="C:\Users\Public\AndroidProjects\app\src\main\res\mipmap-mdpi\ic_launcher_round.webp" qualifiers="mdpi-v4" type="mipmap"/><file name="ic_launcher" path="C:\Users\Public\AndroidProjects\app\src\main\res\mipmap-xhdpi\ic_launcher.webp" qualifiers="xhdpi-v4" type="mipmap"/><file name="ic_launcher_round" path="C:\Users\Public\AndroidProjects\app\src\main\res\mipmap-xhdpi\ic_launcher_round.webp" qualifiers="xhdpi-v4" type="mipmap"/><file name="ic_launcher" path="C:\Users\Public\AndroidProjects\app\src\main\res\mipmap-xxhdpi\ic_launcher.webp" qualifiers="xxhdpi-v4" type="mipmap"/><file name="ic_launcher_round" path="C:\Users\Public\AndroidProjects\app\src\main\res\mipmap-xxhdpi\ic_launcher_round.webp" qualifiers="xxhdpi-v4" type="mipmap"/><file name="ic_launcher" path="C:\Users\Public\AndroidProjects\app\src\main\res\mipmap-xxxhdpi\ic_launcher.webp" qualifiers="xxxhdpi-v4" type="mipmap"/><file name="ic_launcher_round" path="C:\Users\Public\AndroidProjects\app\src\main\res\mipmap-xxxhdpi\ic_launcher_round.webp" qualifiers="xxxhdpi-v4" type="mipmap"/><file path="C:\Users\Public\AndroidProjects\app\src\main\res\values\attrs.xml" qualifiers=""><declare-styleable name="AppWidgetAttrs">
+        <attr format="dimension" name="appWidgetPadding"/>
+        <attr format="dimension" name="appWidgetInnerRadius"/>
+        <attr format="dimension" name="appWidgetRadius"/>
+    </declare-styleable></file><file path="C:\Users\Public\AndroidProjects\app\src\main\res\values\colors.xml" qualifiers=""><color name="purple_200">#FFBB86FC</color><color name="purple_500">#FF6200EE</color><color name="purple_700">#FF3700B3</color><color name="teal_200">#FF03DAC5</color><color name="teal_700">#FF018786</color><color name="black">#FF000000</color><color name="white">#FFFFFFFF</color><color name="light_blue_50">#FFE1F5FE</color><color name="light_blue_200">#FF81D4FA</color><color name="light_blue_600">#FF039BE5</color><color name="light_blue_900">#FF01579B</color></file><file path="C:\Users\Public\AndroidProjects\app\src\main\res\values\dimens.xml" qualifiers=""><dimen name="widget_margin">0dp</dimen><dimen name="fab_margin">16dp</dimen></file><file path="C:\Users\Public\AndroidProjects\app\src\main\res\values\strings.xml" qualifiers=""><string name="app_name">HomeAssignment2</string><string name="appwidget_text">EXAMPLE</string><string name="add_widget">Add widget</string><string name="app_widget_description">This is an app widget description</string><string name="first_fragment_label">First Fragment</string><string name="second_fragment_label">Second Fragment</string><string name="next">Next</string><string name="previous">Previous</string><string name="lorem_ipsum">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam in scelerisque sem. Mauris
+        volutpat, dolor id interdum ullamcorper, risus dolor egestas lectus, sit amet mattis purus
+        dui nec risus. Maecenas non sodales nisi, vel dictum dolor. Class aptent taciti sociosqu ad
+        litora torquent per conubia nostra, per inceptos himenaeos. Suspendisse blandit eleifend
+        diam, vel rutrum tellus vulputate quis. Aliquam eget libero aliquet, imperdiet nisl a,
+        ornare ex. Sed rhoncus est ut libero porta lobortis. Fusce in dictum tellus.\n\n
+        Suspendisse interdum ornare ante. Aliquam nec cursus lorem. Morbi id magna felis. Vivamus
+        egestas, est a condimentum egestas, turpis nisl iaculis ipsum, in dictum tellus dolor sed
+        neque. Morbi tellus erat, dapibus ut sem a, iaculis tincidunt dui. Interdum et malesuada
+        fames ac ante ipsum primis in faucibus. Curabitur et eros porttitor, ultricies urna vitae,
+        molestie nibh. Phasellus at commodo eros, non aliquet metus. Sed maximus nisl nec dolor
+        bibendum, vel congue leo egestas.\n\n
+        Sed interdum tortor nibh, in sagittis risus mollis quis. Curabitur mi odio, condimentum sit
+        amet auctor at, mollis non turpis. Nullam pretium libero vestibulum, finibus orci vel,
+        molestie quam. Fusce blandit tincidunt nulla, quis sollicitudin libero facilisis et. Integer
+        interdum nunc ligula, et fermentum metus hendrerit id. Vestibulum lectus felis, dictum at
+        lacinia sit amet, tristique id quam. Cras eu consequat dui. Suspendisse sodales nunc ligula,
+        in lobortis sem porta sed. Integer id ultrices magna, in luctus elit. Sed a pellentesque
+        est.\n\n
+        Aenean nunc velit, lacinia sed dolor sed, ultrices viverra nulla. Etiam a venenatis nibh.
+        Morbi laoreet, tortor sed facilisis varius, nibh orci rhoncus nulla, id elementum leo dui
+        non lorem. Nam mollis ipsum quis auctor varius. Quisque elementum eu libero sed commodo. In
+        eros nisl, imperdiet vel imperdiet et, scelerisque a mauris. Pellentesque varius ex nunc,
+        quis imperdiet eros placerat ac. Duis finibus orci et est auctor tincidunt. Sed non viverra
+        ipsum. Nunc quis augue egestas, cursus lorem at, molestie sem. Morbi a consectetur ipsum, a
+        placerat diam. Etiam vulputate dignissim convallis. Integer faucibus mauris sit amet finibus
+        convallis.\n\n
+        Phasellus in aliquet mi. Pellentesque habitant morbi tristique senectus et netus et
+        malesuada fames ac turpis egestas. In volutpat arcu ut felis sagittis, in finibus massa
+        gravida. Pellentesque id tellus orci. Integer dictum, lorem sed efficitur ullamcorper,
+        libero justo consectetur ipsum, in mollis nisl ex sed nisl. Donec maximus ullamcorper
+        sodales. Praesent bibendum rhoncus tellus nec feugiat. In a ornare nulla. Donec rhoncus
+        libero vel nunc consequat, quis tincidunt nisl eleifend. Cras bibendum enim a justo luctus
+        vestibulum. Fusce dictum libero quis erat maximus, vitae volutpat diam dignissim.
+    </string></file><file path="C:\Users\Public\AndroidProjects\app\src\main\res\values\styles.xml" qualifiers=""><style name="Widget.HomeAssignment2.AppWidget.Container" parent="android:Widget">
+        <item name="android:id">@android:id/background</item>
+        <item name="android:background">?android:attr/colorBackground</item>
+    </style><style name="Widget.HomeAssignment2.AppWidget.InnerView" parent="android:Widget">
+        <item name="android:background">?android:attr/colorBackground</item>
+        <item name="android:textColor">?android:attr/textColorPrimary</item>
+    </style></file><file path="C:\Users\Public\AndroidProjects\app\src\main\res\values\themes.xml" qualifiers=""><style name="Theme.HomeAssignment2" parent="android:Theme.Material.Light.NoActionBar"/><style name="Theme.HomeAssignment2.AppWidgetContainerParent" parent="@android:style/Theme.DeviceDefault">
+        
+        <item name="appWidgetRadius">16dp</item>
+        
+        <item name="appWidgetInnerRadius">8dp</item>
+    </style><style name="Theme.HomeAssignment2.AppWidgetContainer" parent="Theme.HomeAssignment2.AppWidgetContainerParent">
+        
+        <item name="appWidgetPadding">16dp</item>
+    </style><style name="Base.Theme.HomeAssignment2" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style></file><file path="C:\Users\Public\AndroidProjects\app\src\main\res\values-land\dimens.xml" qualifiers="land"><dimen name="fab_margin">48dp</dimen></file><file path="C:\Users\Public\AndroidProjects\app\src\main\res\values-night\themes.xml" qualifiers="night-v8"><style name="Base.Theme.HomeAssignment2" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style></file><file path="C:\Users\Public\AndroidProjects\app\src\main\res\values-night-v31\themes.xml" qualifiers="night-v31"><style name="Theme.HomeAssignment2.AppWidgetContainerParent" parent="@android:style/Theme.DeviceDefault.DayNight">
+        <item name="appWidgetRadius">@android:dimen/system_app_widget_background_radius</item>
+        <item name="appWidgetInnerRadius">@android:dimen/system_app_widget_inner_radius</item>
+    </style></file><file path="C:\Users\Public\AndroidProjects\app\src\main\res\values-v21\styles.xml" qualifiers="v21"><style name="Widget.HomeAssignment2.AppWidget.Container" parent="android:Widget">
+        <item name="android:id">@android:id/background</item>
+        <item name="android:padding">?attr/appWidgetPadding</item>
+        <item name="android:background">@drawable/app_widget_background</item>
+    </style><style name="Widget.HomeAssignment2.AppWidget.InnerView" parent="android:Widget">
+        <item name="android:padding">?attr/appWidgetPadding</item>
+        <item name="android:background">@drawable/app_widget_inner_view_background</item>
+        <item name="android:textColor">?android:attr/textColorPrimary</item>
+    </style></file><file path="C:\Users\Public\AndroidProjects\app\src\main\res\values-v23\themes.xml" qualifiers="v23"><style name="Theme.HomeAssignment2" parent="Base.Theme.HomeAssignment2">
+        
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:windowLightStatusBar">?attr/isLightTheme</item>
+    </style></file><file path="C:\Users\Public\AndroidProjects\app\src\main\res\values-v31\styles.xml" qualifiers="v31"><style name="Widget.HomeAssignment2.AppWidget.Container" parent="android:Widget">
+        <item name="android:id">@android:id/background</item>
+        <item name="android:padding">?attr/appWidgetPadding</item>
+        <item name="android:background">@drawable/app_widget_background</item>
+        <item name="android:clipToOutline">true</item>
+    </style><style name="Widget.HomeAssignment2.AppWidget.InnerView" parent="android:Widget">
+        <item name="android:padding">?attr/appWidgetPadding</item>
+        <item name="android:background">@drawable/app_widget_inner_view_background</item>
+        <item name="android:textColor">?android:attr/textColorPrimary</item>
+        <item name="android:clipToOutline">true</item>
+    </style></file><file path="C:\Users\Public\AndroidProjects\app\src\main\res\values-v31\themes.xml" qualifiers="v31"><style name="Theme.HomeAssignment2.AppWidgetContainerParent" parent="@android:style/Theme.DeviceDefault.DayNight">
+        <item name="appWidgetRadius">@android:dimen/system_app_widget_background_radius</item>
+        <item name="appWidgetInnerRadius">@android:dimen/system_app_widget_inner_radius</item>
+    </style></file><file path="C:\Users\Public\AndroidProjects\app\src\main\res\values-w1240dp\dimens.xml" qualifiers="w1240dp-v13"><dimen name="fab_margin">200dp</dimen></file><file path="C:\Users\Public\AndroidProjects\app\src\main\res\values-w600dp\dimens.xml" qualifiers="w600dp-v13"><dimen name="fab_margin">48dp</dimen></file><file name="backup_rules" path="C:\Users\Public\AndroidProjects\app\src\main\res\xml\backup_rules.xml" qualifiers="" type="xml"/><file name="data_extraction_rules" path="C:\Users\Public\AndroidProjects\app\src\main\res\xml\data_extraction_rules.xml" qualifiers="" type="xml"/><file name="view_item_info" path="C:\Users\Public\AndroidProjects\app\src\main\res\xml\view_item_info.xml" qualifiers="" type="xml"/><file path="C:\Users\Public\AndroidProjects\app\src\main\res\values\parts_of_speech.xml" qualifiers=""><string-array name="parts_of_speech">
+        <item>noun</item>
+        <item>verb</item>
+        <item>adjective</item>
+        <item>adverb</item>
+        <item>pronoun</item>
+        <item>preposition</item>
+        <item>conjunction</item>
+        <item>interjection</item>
+        <item>article</item>
+    </string-array></file></source></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="debug$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="C:\Users\Public\AndroidProjects\app\src\debug\res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="debug" generated-set="debug$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="C:\Users\Public\AndroidProjects\app\src\debug\res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="generated$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="C:\Users\Public\AndroidProjects\app\build\generated\res\resValues\debug"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="generated" generated-set="generated$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="C:\Users\Public\AndroidProjects\app\build\generated\res\resValues\debug"/></dataSet><mergedItems><configuration qualifiers=""><declare-styleable name="AppWidgetAttrs">
+        <attr format="dimension" name="appWidgetPadding"/>
+        <attr format="dimension" name="appWidgetInnerRadius"/>
+        <attr format="dimension" name="appWidgetRadius"/>
+    </declare-styleable></configuration></mergedItems></merger>
