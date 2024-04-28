@@ -4,14 +4,14 @@
             "outputFile": "com.example.homeassignment2.app-mergeDebugResources-2:/values-night-v31/values-night-v31.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Public\\AndroidProjects\\app\\src\\main\\res\\values-night-v31\\themes.xml",
+                    "source": "C:\\Android-Home-Assignment-2\\app\\src\\main\\res\\values-night-v31\\themes.xml",
                     "from": {
                         "startLines": "5",
                         "startColumns": "4",
-                        "startOffsets": "166",
+                        "startOffsets": "171",
                         "endLines": "8",
                         "endColumns": "12",
-                        "endOffsets": "483"
+                        "endOffsets": "491"
                     },
                     "to": {
                         "startLines": "2",

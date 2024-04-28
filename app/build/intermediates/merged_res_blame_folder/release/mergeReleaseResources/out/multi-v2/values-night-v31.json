@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.homeassignment2.app-mergeReleaseResources-2:/values-night-v31/values-night-v31.xml",
+            "map": [
+                {
+                    "source": "C:\\Android-Home-Assignment-2\\app\\src\\main\\res\\values-night-v31\\themes.xml",
+                    "from": {
+                        "startLines": "5",
+                        "startColumns": "4",
+                        "startOffsets": "171",
+                        "endLines": "8",
+                        "endColumns": "12",
+                        "endOffsets": "491"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "372"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -29,4 +29,15 @@
         android:background="@drawable/free_icon_plus_1828817"
         android:contentDescription="Add"
         android:foregroundGravity="left|bottom" />
+
+    <ImageButton
+        android:id="@+id/loadWordsButton"
+        android:layout_width="70dp"
+        android:layout_height="70dp"
+        android:layout_gravity="bottom|end"
+        android:layout_marginEnd="30dp"
+        android:layout_marginBottom="130dp"
+        android:adjustViewBounds="true"
+        android:background="@drawable/ic_playlist_add_128_28561"
+        android:foregroundGravity="left|bottom" />
 </FrameLayout>

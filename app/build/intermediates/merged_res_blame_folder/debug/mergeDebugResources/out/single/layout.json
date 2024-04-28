@@ -1,22 +1,34 @@
 [
     {
-        "merged": "C:\\Users\\Клиент\\.gradle\\daemon\\8.4\\com.example.homeassignment2.app-mergeDebugResources-3:\\layout\\activity_word_add.xml",
-        "source": "C:\\Users\\Клиент\\.gradle\\daemon\\8.4\\com.example.homeassignment2.app-main-6:\\layout\\activity_word_add.xml"
+        "merged": "C:\\Users\\egor2\\.gradle\\daemon\\8.4\\com.example.homeassignment2.app-mergeDebugResources-3:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\egor2\\.gradle\\daemon\\8.4\\com.example.homeassignment2.app-main-6:\\layout\\activity_main.xml"
     },
     {
-        "merged": "C:\\Users\\Клиент\\.gradle\\daemon\\8.4\\com.example.homeassignment2.app-mergeDebugResources-3:\\layout\\view_item.xml",
-        "source": "C:\\Users\\Клиент\\.gradle\\daemon\\8.4\\com.example.homeassignment2.app-main-6:\\layout\\view_item.xml"
+        "merged": "com.example.homeassignment2.app-mergeDebugResources-3:/layout/activity_word_view.xml",
+        "source": "com.example.homeassignment2.app-main-6:/layout/activity_word_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\egor2\\.gradle\\daemon\\8.4\\com.example.homeassignment2.app-mergeDebugResources-3:\\layout\\progress_dialog.xml",
+        "source": "C:\\Users\\egor2\\.gradle\\daemon\\8.4\\com.example.homeassignment2.app-main-6:\\layout\\progress_dialog.xml"
     },
     {
         "merged": "com.example.homeassignment2.app-mergeDebugResources-3:/layout/activity_word_add.xml",
         "source": "com.example.homeassignment2.app-main-6:/layout/activity_word_add.xml"
     },
     {
-        "merged": "C:\\Users\\Клиент\\.gradle\\daemon\\8.4\\com.example.homeassignment2.app-mergeDebugResources-3:\\layout\\activity_word_view.xml",
-        "source": "C:\\Users\\Клиент\\.gradle\\daemon\\8.4\\com.example.homeassignment2.app-main-6:\\layout\\activity_word_view.xml"
+        "merged": "C:\\Users\\egor2\\.gradle\\daemon\\8.4\\com.example.homeassignment2.app-mergeDebugResources-3:\\layout\\activity_word_add.xml",
+        "source": "C:\\Users\\egor2\\.gradle\\daemon\\8.4\\com.example.homeassignment2.app-main-6:\\layout\\activity_word_add.xml"
     },
     {
-        "merged": "C:\\Users\\Клиент\\.gradle\\daemon\\8.4\\com.example.homeassignment2.app-mergeDebugResources-3:\\layout\\activity_main.xml",
-        "source": "C:\\Users\\Клиент\\.gradle\\daemon\\8.4\\com.example.homeassignment2.app-main-6:\\layout\\activity_main.xml"
+        "merged": "C:\\Users\\egor2\\.gradle\\daemon\\8.4\\com.example.homeassignment2.app-mergeDebugResources-3:\\layout\\view_item.xml",
+        "source": "C:\\Users\\egor2\\.gradle\\daemon\\8.4\\com.example.homeassignment2.app-main-6:\\layout\\view_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\egor2\\.gradle\\daemon\\8.4\\com.example.homeassignment2.app-mergeDebugResources-3:\\layout\\load_words_dialog.xml",
+        "source": "C:\\Users\\egor2\\.gradle\\daemon\\8.4\\com.example.homeassignment2.app-main-6:\\layout\\load_words_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\egor2\\.gradle\\daemon\\8.4\\com.example.homeassignment2.app-mergeDebugResources-3:\\layout\\activity_word_view.xml",
+        "source": "C:\\Users\\egor2\\.gradle\\daemon\\8.4\\com.example.homeassignment2.app-main-6:\\layout\\activity_word_view.xml"
     }
 ]

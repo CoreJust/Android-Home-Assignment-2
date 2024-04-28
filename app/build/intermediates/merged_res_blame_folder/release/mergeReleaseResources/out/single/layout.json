@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "com.example.homeassignment2.app-mergeReleaseResources-3:/layout/activity_main.xml",
+        "source": "com.example.homeassignment2.app-main-5:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.homeassignment2.app-mergeReleaseResources-3:/layout/activity_word_view.xml",
+        "source": "com.example.homeassignment2.app-main-5:/layout/activity_word_view.xml"
+    },
+    {
+        "merged": "com.example.homeassignment2.app-mergeReleaseResources-3:/layout/view_item.xml",
+        "source": "com.example.homeassignment2.app-main-5:/layout/view_item.xml"
+    },
+    {
+        "merged": "com.example.homeassignment2.app-mergeReleaseResources-3:/layout/progress_dialog.xml",
+        "source": "com.example.homeassignment2.app-main-5:/layout/progress_dialog.xml"
+    },
+    {
+        "merged": "com.example.homeassignment2.app-mergeReleaseResources-3:/layout/activity_word_add.xml",
+        "source": "com.example.homeassignment2.app-main-5:/layout/activity_word_add.xml"
+    },
+    {
+        "merged": "com.example.homeassignment2.app-mergeReleaseResources-3:/layout/load_words_dialog.xml",
+        "source": "com.example.homeassignment2.app-main-5:/layout/load_words_dialog.xml"
+    }
+]
