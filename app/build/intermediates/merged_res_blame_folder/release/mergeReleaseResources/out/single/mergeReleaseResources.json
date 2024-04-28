@@ -1,0 +1,126 @@
+[
+    {
+        "merged": "com.example.homeassignment2.app-release-4:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.homeassignment2.app-main-5:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.homeassignment2.app-release-4:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.homeassignment2.app-main-5:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.homeassignment2.app-release-4:/xml_backup_rules.xml.flat",
+        "source": "com.example.homeassignment2.app-main-5:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.homeassignment2.app-release-4:/drawable-nodpi_example_appwidget_preview.png.flat",
+        "source": "com.example.homeassignment2.app-main-5:/drawable-nodpi/example_appwidget_preview.png"
+    },
+    {
+        "merged": "com.example.homeassignment2.app-release-4:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.homeassignment2.app-main-5:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.homeassignment2.app-release-4:/drawable_resource_return.png.flat",
+        "source": "com.example.homeassignment2.app-main-5:/drawable/resource_return.png"
+    },
+    {
+        "merged": "com.example.homeassignment2.app-release-4:/drawable_cicrcled_background.xml.flat",
+        "source": "com.example.homeassignment2.app-main-5:/drawable/cicrcled_background.xml"
+    },
+    {
+        "merged": "com.example.homeassignment2.app-release-4:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.homeassignment2.app-main-5:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.homeassignment2.app-release-4:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.homeassignment2.app-main-5:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.homeassignment2.app-release-4:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.homeassignment2.app-main-5:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.homeassignment2.app-release-4:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.homeassignment2.app-main-5:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.homeassignment2.app-release-4:/drawable_arrow.png.flat",
+        "source": "com.example.homeassignment2.app-main-5:/drawable/arrow.png"
+    },
+    {
+        "merged": "com.example.homeassignment2.app-release-4:/layout_view_item.xml.flat",
+        "source": "com.example.homeassignment2.app-main-5:/layout/view_item.xml"
+    },
+    {
+        "merged": "com.example.homeassignment2.app-release-4:/drawable-v21_app_widget_inner_view_background.xml.flat",
+        "source": "com.example.homeassignment2.app-main-5:/drawable-v21/app_widget_inner_view_background.xml"
+    },
+    {
+        "merged": "com.example.homeassignment2.app-release-4:/layout_progress_dialog.xml.flat",
+        "source": "com.example.homeassignment2.app-main-5:/layout/progress_dialog.xml"
+    },
+    {
+        "merged": "com.example.homeassignment2.app-release-4:/drawable-v21_app_widget_background.xml.flat",
+        "source": "com.example.homeassignment2.app-main-5:/drawable-v21/app_widget_background.xml"
+    },
+    {
+        "merged": "com.example.homeassignment2.app-release-4:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.homeassignment2.app-main-5:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.homeassignment2.app-release-4:/layout_activity_word_view.xml.flat",
+        "source": "com.example.homeassignment2.app-main-5:/layout/activity_word_view.xml"
+    },
+    {
+        "merged": "com.example.homeassignment2.app-release-4:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.homeassignment2.app-main-5:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.homeassignment2.app-release-4:/layout_load_words_dialog.xml.flat",
+        "source": "com.example.homeassignment2.app-main-5:/layout/load_words_dialog.xml"
+    },
+    {
+        "merged": "com.example.homeassignment2.app-release-4:/layout_activity_main.xml.flat",
+        "source": "com.example.homeassignment2.app-main-5:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.homeassignment2.app-release-4:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.homeassignment2.app-main-5:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.homeassignment2.app-release-4:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.homeassignment2.app-main-5:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.homeassignment2.app-release-4:/drawable_free_icon_plus_1828817.png.flat",
+        "source": "com.example.homeassignment2.app-main-5:/drawable/free_icon_plus_1828817.png"
+    },
+    {
+        "merged": "com.example.homeassignment2.app-release-4:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.homeassignment2.app-main-5:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.homeassignment2.app-release-4:/drawable_ic_playlist_add_128_28561.png.flat",
+        "source": "com.example.homeassignment2.app-main-5:/drawable/ic_playlist_add_128_28561.png"
+    },
+    {
+        "merged": "com.example.homeassignment2.app-release-4:/xml_view_item_info.xml.flat",
+        "source": "com.example.homeassignment2.app-main-5:/xml/view_item_info.xml"
+    },
+    {
+        "merged": "com.example.homeassignment2.app-release-4:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.homeassignment2.app-main-5:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.homeassignment2.app-release-4:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.homeassignment2.app-main-5:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.homeassignment2.app-release-4:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.homeassignment2.app-main-5:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.homeassignment2.app-release-4:/layout_activity_word_add.xml.flat",
+        "source": "com.example.homeassignment2.app-main-5:/layout/activity_word_add.xml"
+    }
+]

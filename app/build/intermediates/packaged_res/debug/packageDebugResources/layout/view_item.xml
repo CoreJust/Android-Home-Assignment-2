@@ -1,17 +1,19 @@
-<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
-    style="@style/Widget.HomeAssignment2.AppWidget.Container"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/wordViewBackground"
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
     android:layout_marginTop="10dp"
     android:background="@drawable/cicrcled_background"
+    android:orientation="vertical"
     android:theme="@style/Theme.HomeAssignment2.AppWidgetContainer">
 
     <TextView
         android:id="@+id/wordView"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_marginTop="4dp"
+        android:layout_marginTop="10dp"
         android:height="48dp"
         android:capitalize="none"
         android:inputType="text|textCapCharacters"
@@ -19,23 +21,28 @@
         android:textAlignment="center"
         android:textColor="#000000"
         android:textSize="24sp"
-        android:textStyle="bold|italic"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
+        android:textStyle="bold|italic" />
+
+    <TextView
+        android:id="@+id/itemPartOfSpeechView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="20dp"
+        android:gravity="start|center_vertical"
+        android:text="TextView"
+        android:textColor="@android:color/darker_gray" />
 
     <TextView
         android:id="@+id/translationView"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_marginStart="4dp"
-        android:layout_marginTop="12dp"
+        android:layout_marginStart="12dp"
+        android:layout_marginTop="4dp"
+        android:layout_marginBottom="8dp"
         android:gravity="center_horizontal"
         android:text="Explanation"
         android:textAlignment="viewStart"
         android:textColor="#252525"
-        android:textSize="16sp"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/wordView" />
+        android:textSize="16sp" />
 
-</androidx.constraintlayout.widget.ConstraintLayout>
+</LinearLayout>

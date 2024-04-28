@@ -4,24 +4,7 @@
             "outputFile": "com.example.homeassignment2.app-mergeDebugResources-2:/values-lv/values-lv.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Клиент\\.gradle\\caches\\transforms-3\\142a01ea037e87becdec981a0f9163b4\\transformed\\core-1.10.1\\res\\values-lv\\values-lv.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9",
-                        "startColumns": "4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,153,255,355,456,563,671,786",
-                        "endColumns": "97,101,99,100,106,107,114,100",
-                        "endOffsets": "148,250,350,451,558,666,781,882"
-                    },
-                    "to": {
-                        "startLines": "43,44,45,46,47,48,49,166",
-                        "startColumns": "4,4,4,4,4,4,4,4",
-                        "startOffsets": "4182,4280,4382,4482,4583,4690,4798,15567",
-                        "endColumns": "97,101,99,100,106,107,114,100",
-                        "endOffsets": "4275,4377,4477,4578,4685,4793,4908,15663"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\Клиент\\.gradle\\caches\\transforms-3\\f8c4ffe457f250fcf08b7c1d5b3490da\\transformed\\material3-1.1.1\\res\\values-lv\\values-lv.xml",
+                    "source": "C:\\Users\\egor2\\.gradle\\caches\\transforms-3\\f8c4ffe457f250fcf08b7c1d5b3490da\\transformed\\material3-1.1.1\\res\\values-lv\\values-lv.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -38,7 +21,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Клиент\\.gradle\\caches\\transforms-3\\4cac900cf0ca320bce76361fb8367b76\\transformed\\material-1.10.0\\res\\values-lv\\values-lv.xml",
+                    "source": "C:\\Users\\egor2\\.gradle\\caches\\transforms-3\\4cac900cf0ca320bce76361fb8367b76\\transformed\\material-1.10.0\\res\\values-lv\\values-lv.xml",
                     "from": {
                         "startLines": "2,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -57,24 +40,24 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Клиент\\.gradle\\caches\\transforms-3\\e89f27f058ee5aab91c451224e6fbc9b\\transformed\\ui-release\\res\\values-lv\\values-lv.xml",
+                    "source": "C:\\Users\\egor2\\.gradle\\caches\\transforms-3\\142a01ea037e87becdec981a0f9163b4\\transformed\\core-1.10.1\\res\\values-lv\\values-lv.xml",
                     "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "105,203,292,388,491,581,667,755,848,932,1002,1072,1157,1244,1317,1395,1463",
-                        "endColumns": "97,88,95,102,89,85,87,92,83,69,69,84,86,72,77,67,121",
-                        "endOffsets": "198,287,383,486,576,662,750,843,927,997,1067,1152,1239,1312,1390,1458,1580"
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,153,255,355,456,563,671,786",
+                        "endColumns": "97,101,99,100,106,107,114,100",
+                        "endOffsets": "148,250,350,451,558,666,781,882"
                     },
                     "to": {
-                        "startLines": "53,54,87,88,90,95,96,155,156,157,158,160,161,164,168,169,170",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "5231,5329,9069,9165,9347,9745,9831,14675,14768,14852,14922,15069,15154,15410,15775,15853,15921",
-                        "endColumns": "97,88,95,102,89,85,87,92,83,69,69,84,86,72,77,67,121",
-                        "endOffsets": "5324,5413,9160,9263,9432,9826,9914,14763,14847,14917,14987,15149,15236,15478,15848,15916,16038"
+                        "startLines": "43,44,45,46,47,48,49,166",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "4182,4280,4382,4482,4583,4690,4798,15567",
+                        "endColumns": "97,101,99,100,106,107,114,100",
+                        "endOffsets": "4275,4377,4477,4578,4685,4793,4908,15663"
                     }
                 },
                 {
-                    "source": "C:\\Users\\Клиент\\.gradle\\caches\\transforms-3\\b577722319843f8135662c641d4e4fad\\transformed\\navigation-ui-2.6.0\\res\\values-lv\\values-lv.xml",
+                    "source": "C:\\Users\\egor2\\.gradle\\caches\\transforms-3\\b577722319843f8135662c641d4e4fad\\transformed\\navigation-ui-2.6.0\\res\\values-lv\\values-lv.xml",
                     "from": {
                         "startLines": "2,3",
                         "startColumns": "4,4",
@@ -91,7 +74,24 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Клиент\\.gradle\\caches\\transforms-3\\ff5a8ad7ef9262963c4c98350aea8ad5\\transformed\\appcompat-1.6.1\\res\\values-lv\\values-lv.xml",
+                    "source": "C:\\Users\\egor2\\.gradle\\caches\\transforms-3\\e89f27f058ee5aab91c451224e6fbc9b\\transformed\\ui-release\\res\\values-lv\\values-lv.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,203,292,388,491,581,667,755,848,932,1002,1072,1157,1244,1317,1395,1463",
+                        "endColumns": "97,88,95,102,89,85,87,92,83,69,69,84,86,72,77,67,121",
+                        "endOffsets": "198,287,383,486,576,662,750,843,927,997,1067,1152,1239,1312,1390,1458,1580"
+                    },
+                    "to": {
+                        "startLines": "53,54,87,88,90,95,96,155,156,157,158,160,161,164,168,169,170",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "5231,5329,9069,9165,9347,9745,9831,14675,14768,14852,14922,15069,15154,15410,15775,15853,15921",
+                        "endColumns": "97,88,95,102,89,85,87,92,83,69,69,84,86,72,77,67,121",
+                        "endOffsets": "5324,5413,9160,9263,9432,9826,9914,14763,14847,14917,14987,15149,15236,15478,15848,15916,16038"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\egor2\\.gradle\\caches\\transforms-3\\ff5a8ad7ef9262963c4c98350aea8ad5\\transformed\\appcompat-1.6.1\\res\\values-lv\\values-lv.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
